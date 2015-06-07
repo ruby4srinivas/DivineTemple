@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails DivineTemple: development" uuid="fe1be3fb-06db-4c15-91a3-e4be4ebf3211">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails DivineTemple: test" uuid="378e46c0-e1f3-4208-8a16-90553a7ee6b5">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails DivineTemple: production" uuid="ee7d152f-5886-4a68-83b1-b905d29f5ca2">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
